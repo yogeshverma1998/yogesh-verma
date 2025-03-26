@@ -4,7 +4,7 @@ I am **Yogesh Verma**, a doctoral researcher in machine learning at Aalto Univer
 
 🧑‍💻: Work Experience
 - Jan 2022 -: Doctoral Researcher @ Aalto University, Finland.
-- July 2024 - Nov 2024:  Machine Learning Research Intern @ Huawei, Finland. I worked on analyzing the physiological signals of the human body to infer health biomarkers.
+- July 2024 - Nov 2024:  Machine Learning Research Intern @ Huawei, Finland. I worked on analyzing the hemodynamic physiological signals of the human body to infer health biomarkers.
 - July 2021 - Nov 2021: Research Associate @ Univeristy of Zurich. I worked on characterizing rare events in _pp_ collisions in the CMS experiment and CERN.
 
 
